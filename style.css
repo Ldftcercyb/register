@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* opacity: 1; tapanckutyun */
+}
+.img_1{
+    width: 100%;
+    height: 1800px;
+    position: absolute;
+}
+
+.text_h1{
+    position: relative;
+    left: 35% ;
+    top: 50px;
+    color: white;
+}
+.input_1{
+    width: 400px;
+    height: 500px;
+    background-color: rgba(161, 174, 213, 0.493);
+    position: relative;
+    top: 100px;
+    left: 35%;
+}
+.text_2{
+    text-align: center;
+    color: white;
+    margin-bottom: 5%;
+}
+.demq_klor{
+    width: 180px;
+    height: 150px;
+    border-radius: 50%;
+    margin-left: 110px;
+}
+.inputdec{
+
+    margin-left: 18px;
+    width: 350px;
+    background-color: rgba(122, 152, 236, 0.496);
+    height: 25px;
+}
+.checkbox{
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+    color: white;
+    margin-top: 15px;
+
+}
+.inputdec_2{
+    margin-left: 18px;
+    width: 350px;
+    background-color: rgba(122, 152, 236, 0.496);
+    height: 25px;
+    margin-top: 20px;
+}
+.button{
+    background-color: blueviolet;
+    margin-top: 50px;
+    width: 350px;
+    height: 30px;
+    color: white;
+    margin-left: 18px;
+}
+.taza_ej_bacel{
+    margin-left: 130px;
+    margin-top: 15px;
+    color: white;
+}
+.icons_img{
+    width: 150px;
+    margin-left: 110px;
+}
+.input_2{
+    width: 400px;
+    height: 450px;
+    background-color: rgba(161, 174, 213, 0.493);
+    position: relative;
+    margin-top: 15%;
+    margin-left: 35%;
+}
+.h1_text{
+    text-align: center;
+    color: white;
+}
+.ch_2{
+    width: 20px;
+    height: 20px;
+    margin-left: 20px;
+    color: white;
+    margin-top: 15px; 
+    padding: 20px;
+} 
+.moxraguyn_text{
+    margin-left: 45px;
+    margin-bottom:0px;
+}
+.buttono{
+    background-color: blueviolet;
+    margin-top: 15px;
+    width: 350px;
+    margin-left: 18px;
+    height: 30px;
+    color: white;
+}
